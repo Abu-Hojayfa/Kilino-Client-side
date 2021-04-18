@@ -1,0 +1,45 @@
+.paymentPage{
+  background-image: linear-gradient(to top,  #80d4fe, #8fd9fe, #9ddefd, #aae3fd, #b7e8fd, #c7edfd);
+  min-height: 100vh;
+}
+.paymentForm{
+  width: 70%;
+  padding-top: 150px !important;
+}
+.paymentForm button{
+  background-color: #2C2873;
+  margin-top: 30px !important;
+}
+.paymentBox h2{
+  margin-top: 0px;
+}
+.paymentBox p{
+  margin-bottom: 50px !important;
+}
+.paymentCard{
+  width: 500px;
+  background-color: white;
+  color: white !important;
+  padding: 15px 10px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.paymentBox{
+  width: 40%;
+  margin: auto;
+}
+.paymentBox input{
+  width: 500px;
+  margin-bottom: 30px;
+  padding: 10px 10px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+}
+.error {
+  padding-top: 10px;
+  height: 40px;
+}
+.error p{
+  margin: 0  !important;
+}

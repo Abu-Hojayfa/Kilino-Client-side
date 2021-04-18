@@ -1,0 +1,90 @@
+.fileUpload {
+	background: rgba(78, 44, 214,0.3);
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	color: #4E2CD6;
+	font-size: 22px;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+  padding: 8px 20px;
+  border: 1px solid #4E2CD6;
+  cursor: pointer;
+  display: flex;
+  width: 220px;
+}
+.fileUpload img{
+  width: 40px;
+}
+.fileUpload:hover, .fileUpload:active, .fileUpload:focus {
+  cursor: pointer;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    width: 148px;
+    height: 46px;
+  cursor: pointer;
+}
+
+input[type="file"] {
+    position: fixed;
+    right: 100%;
+    bottom: 100%;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+.grp1, .grp2{
+  display: flex;
+}
+.inputGrp{
+  padding: 50px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px grey;
+  border: 1px solid transparent;
+  width: 80%;
+}
+.inputGrp p{
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+.inputGrp input[type='text']{
+  width: 450px;
+  padding: 8px 20px;
+  font-size: 20px;
+  border: 1px solid #4E2CD6;
+  border-radius:12px;
+  margin: 10px 50px 30px 0;
+}
+.inputGrp input[type='text']:hover ,
+.inputGrp input[type='text']:focus,
+.inputGrp input[type='text']:active{
+  border: 1px solid #4E2CD6;
+}
+.addABook{
+  width: 300px;
+  padding: 10px 60px;
+  margin-left: 350px;
+  margin-top: 50px;
+  border: 1px solid transparent;
+  background-color: #4E2CD6;
+  font-size: 20px;
+  color: #FFF;
+  border-radius: 15px;
+}
+.addABook:hover{
+  color: #2C2873;
+}

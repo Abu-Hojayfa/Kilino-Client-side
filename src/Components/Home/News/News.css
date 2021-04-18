@@ -1,0 +1,31 @@
+
+.allNems{
+  margin: 100px 0 !important;
+}
+.news-container{
+  width: 70%;
+}
+.news-container button{
+  margin-top: 30px;
+}
+.newsSolo{
+  padding: 25px;
+  border: 1px solid rgb(192, 192, 192);
+  border-radius: 10px;
+}
+.newsSolo img{
+  padding-bottom: 10px;
+  height: 225px;
+}
+.newsSolo p{
+  color: gray;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.newsSolo h2{
+  margin-top: 0;
+  font-size: 25px;
+}
+.news-info{
+  margin-bottom: 0;
+}

@@ -1,0 +1,96 @@
+.services-container{
+  margin-top: 100px !important;
+  margin-bottom: 50px !important;
+}
+.service-head h5{
+  color: #44C2FD;
+  font-size: 22px;
+}
+.sideLine{
+  margin-left: 15px;
+  width: 90px;
+  height: 5px;
+  background-image: linear-gradient(to right, #4bc4fd, #5fc9fd, #71cffd, #80d4fe, #8fd9fe, #9ddefd, #aae3fd, #b7e8fd, #c7edfd, #d7f3fd, #e7f8fe, #f7fdff);
+}
+.services-description{
+  margin-top: 14% !important;
+}
+.services-description h2{
+  margin-top: 5px;
+}
+.services-description p{
+  font-size: 18px;
+  text-align: justify;
+  color: grey;
+}
+.services-description button{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.services-card{
+  padding: 20px;
+  width: 100%;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.img {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  background-color: #7CD4FE;
+}
+.img img {
+  width: 70px;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+.services-card h5{
+  color: #292571;
+  margin-top: 22px;
+}
+.house-cleaning{
+  margin-left: 30%;
+  margin-top: 30%;
+}
+.services-card button{
+  margin-top: 20px;
+}
+.service-price{
+  padding-top: 20px;
+  color: #2C2873;
+}
+.services-card p{
+  font-size: 18px;
+  font-weight: 600;
+}
+.services-card:hover{
+  background-color: #44C2FD;
+  border: 1px solid #44C2FD;
+  transition: 0.7s;
+  position: relative;
+}
+.services-card:hover h5, .services-card:hover p{
+  color: #2C2873 !important;
+}
+
+.services-card:hover .img{
+  background-color: transparent;
+}
+
+.services-card:hover .img img{
+  width: 60%;
+  position: absolute;
+  top: 5%;
+  left: 30%;
+  transition: 0.8s;
+  z-index: -2;
+  opacity: 0.5;
+}
+
+.services-card:hover button{
+  background-color: #2C2873;
+}
+button:hover{
+  background-color: yellow !important;
+}

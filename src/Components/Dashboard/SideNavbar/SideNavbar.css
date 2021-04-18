@@ -1,0 +1,15 @@
+.sideNavbar{
+  min-height: 100vh;
+  background-color: #44C2FD;
+  width: 270px !important;
+  padding-top: 120px;
+  padding-left: 2%;
+}
+.sideNavbar a{
+  text-decoration: none;
+}
+.sideNavbar p{
+  color: #2C2873;
+  font-size: 22px;
+  font-weight: 600;
+}

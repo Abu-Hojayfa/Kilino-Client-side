@@ -1,0 +1,33 @@
+.footer-container{
+  background-color: #2C2873;
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+.footer-main{
+  width: 70%;
+  color: #fff;
+}
+.footer-main div{
+  padding-left: 50px;
+}
+.footer-social{
+  font-size: 35px;
+  padding-left: 0  !important;
+}
+.footer-social .svg-inline--fa {
+  margin-right: 20px;
+  margin-left: 12px
+}
+.footer-main h4 {
+  font-size: 27px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+} 
+.footer-main p {
+  font-size: 18px;
+  padding-left: 20px;
+}
+.copyRight{
+  background-color: #403d99;
+  padding: 15px 0;
+}

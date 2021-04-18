@@ -1,0 +1,91 @@
+
+@media (max-width: 375px) {
+  h2{
+    font-size: 30px !important;
+  }
+  .left-animation{
+    display:none;
+  }
+  .navbar{
+    width: 375px;
+  }
+  .header-main{
+    padding-top: 0 !important;
+  }
+  .header-main>div{
+    width: 100%;
+  }
+  .header-main>div>div{
+    padding-top: 20px !important;
+  }
+  .header-main h1{
+    font-size: 30px !important
+  }
+  .header-main p{
+    z-index: 2;
+  }
+  .header-main::after{
+    height: 120% !important;
+  }
+  .header-main img{
+    margin-left: 0 !important;
+    margin-top: 50px !important;
+  }
+  .working-info p{
+    width: 75% !important;
+  }
+  .about-container>div{
+    width:100% !important;
+    padding-left: 30px  !important;
+  }
+  .about-info{
+    padding: 0 !important;
+  }
+  .about-img{
+    padding-top: 40px !important;
+  }
+  .exp h3{
+    font-size: 30px !important;
+    padding-top: 10px !important;
+  }
+  .exp{
+    height: 110px !important;
+    width: 90px !important;
+  }
+  .review-info p{
+    width: 100% !important;
+  }
+  .team-profile{
+    width: 320px !important;
+    margin-left: 0 !important;
+  }
+  .news-container{
+    margin: 0 !important;
+    width: 100% !important;
+  }
+  .news-container .row .col-md-4{
+    margin-top: 30px;
+  }
+  .subscribe-container{
+    width: 95% !important;
+    padding: 20px 0 !important;
+  }
+  .subscribe-container h2{
+    font-size: 22px !important;
+    margin-left: 5px;
+  }
+  .subscribe-container button{
+    font-size: 18px !important;
+    padding: 5px !important;
+    margin-right: 5px;
+  }
+  .footer-main{
+    width: 90% !important;
+  }
+  .footer-main div{
+    padding-left: 15px !important;
+  }
+  .all-circle{
+    display: none;
+  }
+}

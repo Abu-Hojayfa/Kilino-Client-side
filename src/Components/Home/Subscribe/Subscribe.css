@@ -1,0 +1,16 @@
+.subscribe-container{
+  width: 70%;
+  background-color: #44C2FD;
+  margin-bottom: 100px !important;
+  padding: 80px 0;
+  border-radius: 10px;
+  position: relative;
+}
+.subscribe-container h2,
+.subscribe-container button{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subscribe-container button{
+  background-color: #2C2873;
+}

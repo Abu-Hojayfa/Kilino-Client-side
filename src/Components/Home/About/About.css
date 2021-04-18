@@ -1,0 +1,44 @@
+.about-container{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: rgba(184, 184, 184, 0.1);
+}
+.about-info {
+  width: 80%;
+  padding: 50px;
+}
+.about-info h5{
+  margin-bottom: 0px;
+}
+.about-info h2{
+  margin-top: 10px;
+}
+.about-info button{
+  margin-top: 10px;
+}
+.about-img img {
+  border-radius: 15px;
+}
+.about-img{
+  position: relative;
+}
+.exp h3, .exp p{
+  text-align: center;
+  color: #fff;
+}
+.exp h3{
+  font-size: 60px;
+  padding-top: 20px;
+  font-weight: 600;
+}
+.exp{
+  position: absolute;
+  content: '';
+  top: 57%;
+  left: -3%;
+  height: 160px;
+  width: 130px;
+  border-radius: 10px;
+  color: white;
+  background-color: #2C2873;
+}

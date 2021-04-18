@@ -1,0 +1,13 @@
+.inputContainer{
+  width: 55%;
+  margin-top: 50px;
+}
+.inputContainer input,
+.inputContainer button{
+  height: 50px;
+  font-size: 20px;
+}
+.inputContainer button{
+  background-color: #2C2873;
+  color: white;
+}
