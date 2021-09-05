@@ -1,5 +1,6 @@
 # Welcome to "Kilino" 💦🪓🌀
 This is a cleaning team site. who cleans your house, toilet, office etc.
+<img src="https://i.ibb.co/BC93yRN/kilino.png" alt="kilino" border="0">
 ## Functionalities
 1. Successfully Added Admin Panel for both client and admin.
 2. Payment System implement by Stripe
